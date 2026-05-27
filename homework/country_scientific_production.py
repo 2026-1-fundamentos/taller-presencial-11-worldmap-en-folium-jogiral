@@ -108,3 +108,5 @@ def make_worldmap():
 if __name__ == "__main__":
     make_worldmap()
     
+    
+# https://raw.githubusercontent.com/python-visualization/folium/master/examples/data/world-countries.json
